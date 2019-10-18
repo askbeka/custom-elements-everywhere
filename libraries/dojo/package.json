@@ -5,7 +5,7 @@
   },
   "dependencies": {
     "@dojo/framework": "5.0.4",
-    "@webcomponents/webcomponentsjs": "1.2.6"
+    "@webcomponents/webcomponentsjs": "2.3.0"
   },
   "devDependencies": {
     "@types/expect": "1.20.3",
